@@ -1,5 +1,7 @@
 # Bitcoin-Wallet-Private-key-Generator
-This Script is made on Python and its pip Libraries. This Script only works for the bitcoin wallets of Base 58 (P2PKHc) and or cracking the Private key of any Base 58 bitcoin wallet, The range of the Private Key must be known by which the time complexity will be less, but even after knowing the range where the targeted private key lies, it will take time as per the range data i.e. from 2^0 to 2^256 Good luck! for wallet hunting.. xdd
+This Script is made on Python and its pip Libraries. This Script only works for the bitcoin wallets of Base 58 (P2PKHc), and for cracking the Private key of any Base 58 bitcoin wallet the range of the Private Key must be known to the user by which the time complexity will be less, but even after knowing the range where the targeted private key lies, it will take time as per the start and end range  i.e. 2^0 to 2^256 (Whole Bitcoin key Range), so basically it's a game of luck try it and see if you get lucky and hit the Jackpot!!
+
+
 This Script is working perfectly as it was made for the sole purpose of cracking the Bitcoin Puzzle "https://bitcointalk.org/index.php?topic=1306983", but unfortunately the range 2^66 is so big to crack by this Script, so sharing this code with everyone maybe someone get lucky and get some BTC...
 
 Procedure to run this Script!...
