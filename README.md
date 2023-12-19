@@ -2,8 +2,6 @@
 This Script is made on Python and its pip Libraries. This Script only works for the bitcoin wallets of Base 58 and or cracking the Private key of any Base 58 bitcoin wallet, The range of the Private Key must be known by which the time complexity will be less, but even after knowing the range where the targeted private key lies, it will take time as per the range data i.e. from 2^0 to 2^256 Good luck! for wallet hunting.. xdd
 This Script is working perfectly as it was made for the sole purpose of cracking the Bitcoin Puzzle "https://bitcointalk.org/index.php?topic=1306983", but unfortunately the range 2^66 is so big to crack by this Script, so sharing this code with everyone maybe someone get lucky and get some BTC...
 
-Good Luck Guyzz!...
-
 Procedure to run this Script!...
 
 1. Install Python and open in CMD.
@@ -29,4 +27,8 @@ Lets search for the Private Hex key of the Puzzle no. 15!...
 
 ![Key](https://github.com/Coders-Bar/Bitcoin-Wallet-Private-key-Generator/assets/154334072/fc2ad8dc-184a-45f5-a796-dc90469f0307)
 
-As you can it took 0.22445 seconds to search for the key of the above specified wallet address i.e. puzzle no. 15!!
+As you can this script divided the whole range into 12 sub-ranges and searched for the key in all the sub-ranges concurrently and it took 0.22445 seconds to search for the key of the above-specified wallet address i.e. puzzle no. 15!!
+
+
+
+Good Luck Guyzz!...
