@@ -9,13 +9,13 @@ Procedure to run this Script!...
 1. Install Python and open in CMD.
 2. Install PIP using this command "python -m pip install pip" in CMD.
 3. Now install these modules...
-   ECDSA
-   Hashlib
-   Base58
-   tqdm
-   futures
-   time (if not pre-installed)
-   math (if not pre-installed)
+   1. ECDSA
+   2. Hashlib
+   3. Base58
+   4. tqdm
+   5. futures
+   6. time (if not pre-installed)
+   7. math (if not pre-installed)
 4. Now go to the directory where the "Hex key finder.py" is saved.
 5. run that file in CMD by command "python Hex key finder.py".
 Note: Before running in CMD please edit the file and input the Base58 wallet address in the file where it says "Input the address here".
