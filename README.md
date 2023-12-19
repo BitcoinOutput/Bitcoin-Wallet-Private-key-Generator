@@ -17,10 +17,8 @@ Procedure to run this Script!...
    6. time (if not pre-installed)
    7. math (if not pre-installed)
 4. Now go to the directory where the "Hex key finder.py" is saved.
-5. run that file in CMD by command "python Hex key finder.py".
-Note: Before running in CMD please edit the file and input the Base58 wallet address in the file where it says "Input the address here".
-6. Now provide the input of the Starting range and Ending Range in the Decimal Format.
-Note: You can convert the range from this website "https://www.rapidtables.com/convert/number/hex-to-decimal.html"
+5. run that file in CMD by command "python Hex key finder.py". Before running in CMD please edit the file and input the Base58 wallet address in the file where it says "Input the address here".
+6. Now provide the input of the Starting range and Ending Range in the Decimal Format. You can convert the range from this website "https://www.rapidtables.com/convert/number/hex-to-decimal.html"
 7. Finally your program will start the sequence from the starting range and if the key is found then the program will save it for you in a text file.
 
 Example:
