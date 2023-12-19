@@ -25,9 +25,6 @@ Note: You can convert the range from this website "https://www.rapidtables.com/c
 
 Example:
 Lets search for the Private Hex key of the Puzzle no. 15!...
-
-Wallet Address: 1QCbW9HWnwQWiQqVo5exhAnmfqKRrCRsvW
-
-Range start: 0000000000000000000000000000000000000000000000000000000000004000 (Hexadecimal Number) || 16384 (Decimal Number)
-
-Range End: 0000000000000000000000000000000000000000000000000000000000007fff (Hexadecimal Number) || 32767 (Decimal Number)
+1.Wallet Address: 1QCbW9HWnwQWiQqVo5exhAnmfqKRrCRsvW
+2.Range start: 0000000000000000000000000000000000000000000000000000000000004000 (Hexadecimal Number) || 16384 (Decimal Number)
+3.Range End: 0000000000000000000000000000000000000000000000000000000000007fff (Hexadecimal Number) || 32767 (Decimal Number)
